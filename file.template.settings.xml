@@ -1,0 +1,15 @@
+<application>
+  <component name="ExportableFileTemplateSettings">
+    <default_templates>
+      <template name="XSLT Stylesheet.xsl" reformat="true" live-template-enabled="false" enabled="false" />
+    </default_templates>
+    <internal_templates>
+      <template name="PHP Class.php" reformat="false" live-template-enabled="false" enabled="true" />
+      <template name="PHP Interface.php" reformat="false" live-template-enabled="false" enabled="true" />
+    </internal_templates>
+    <includes_templates>
+      <template name="Drupal Hook Implementation Doc Comment.php" reformat="true" live-template-enabled="false" enabled="false" />
+      <template name="PHP File Header.php" reformat="true" live-template-enabled="false" enabled="false" />
+    </includes_templates>
+  </component>
+</application>
