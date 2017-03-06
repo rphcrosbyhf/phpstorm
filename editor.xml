@@ -9,4 +9,8 @@
     <option name="SHOW_NOTIFICATION_AFTER_REFORMAT_CODE_ACTION" value="false" />
     <option name="SHOW_NOTIFICATION_AFTER_OPTIMIZE_IMPORTS_ACTION" value="false" />
   </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+  </component>
 </application>
