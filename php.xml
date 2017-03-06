@@ -8,7 +8,7 @@
   <component name="PhpCodeSniffer">
     <phpcs_settings>
       <PhpCSConfiguration />
-      <phpcs_by_interpreter interpreter_id="d0808f56-77dc-4725-9ab3-9e8cbe4fa925" tool_path="/usr/local/bin/phpcs" />
+      <phpcs_by_interpreter interpreter_id="d0808f56-77dc-4725-9ab3-9e8cbe4fa925" standards="MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" tool_path="/usr/local/bin/phpcs" />
     </phpcs_settings>
   </component>
   <component name="PhpInterpreters">
