@@ -13,6 +13,7 @@
       <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="cfg" type="PLAIN_TEXT" />
       <mapping ext="ini" type="PLAIN_TEXT" />
+      <mapping pattern="check-static-analysis" type="YAML" />
       <mapping ext="dist" type="YAML" />
     </extensionMap>
   </component>
